@@ -1,0 +1,10 @@
+
+# Laptop <-> Pi settings
+laptop_to_pi:
+  method: "serial"   # options: serial, tcp
+  serial_port: "/dev/ttyUSB0"
+  baud: 115200
+pi_to_arduino:
+  method: "serial"
+  serial_port: "/dev/ttyACM0"
+  baud: 115200

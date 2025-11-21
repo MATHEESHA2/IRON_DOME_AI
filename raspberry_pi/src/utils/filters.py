@@ -1,1 +1,0 @@
-# image filters placeholder

@@ -1,0 +1,9 @@
+
+servo:
+  pan_pin: 9
+  tilt_pin: 10
+  min_angle: 0
+  max_angle: 180
+latency_estimate: 0.12
+angle_tolerance_deg: 3.0
+fire_cooldown_s: 1.0

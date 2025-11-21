@@ -1,6 +1,0 @@
-{
-  "detection_confidence": 0.45,
-  "fire_confidence": 0.6,
-  "min_fire_depth_cm": 20,
-  "max_fire_depth_cm": 180
-}

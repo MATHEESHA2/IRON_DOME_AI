@@ -1,0 +1,1 @@
+// Arduino scanner sketch (ultrasonic)\nvoid setup(){Serial.begin(9600);} void loop(){Serial.println('ping');delay(500);}\n

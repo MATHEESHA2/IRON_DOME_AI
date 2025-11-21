@@ -1,7 +1,8 @@
+
 __pycache__/
 *.pyc
-venv/
-models/yolo/best.pt
-models/depth/*.onnx
-*.zip
-/mnt/data/
+.vscode/
+.env
+.venv/
+runs/
+models/*.pt

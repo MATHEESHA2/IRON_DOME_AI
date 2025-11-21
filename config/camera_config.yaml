@@ -1,0 +1,6 @@
+
+frame_width: 1280
+frame_height: 720
+hfov_deg: 70.0
+vfov_deg: 43.0
+fps: 20

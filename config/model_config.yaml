@@ -1,0 +1,4 @@
+
+yolo_model: "models/yolov8n.pt"
+confidence: 0.35
+device: "cpu"

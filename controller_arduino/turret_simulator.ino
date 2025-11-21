@@ -1,0 +1,1 @@
+// Turret simulator sketch - no laser control\nvoid setup(){Serial.begin(115200);} void loop(){if(Serial.available()){String s=Serial.readStringUntil('\n');Serial.println(s);}delay(20);}\n
