@@ -1,3 +1,4 @@
+
 opencv-python
 ultralytics
 torch
@@ -5,6 +6,6 @@ torchvision
 torchaudio
 numpy
 matplotlib
-timm
-flask
+pillow
 pyserial
+timm
