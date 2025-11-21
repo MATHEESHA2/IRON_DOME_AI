@@ -1,0 +1,13 @@
+[Unit]
+Description=Golden Dome AI Pi Service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/pi/GOLDEN_DOME_AI/raspberry_pi/src
+ExecStart=/usr/bin/python3 main_pi.py --serial-port /dev/ttyUSB0 --zmq-server tcp://192.168.1.100:5555
+Restart=on-failure
+User=pi
+
+[Install]
+WantedBy=multi-user.target

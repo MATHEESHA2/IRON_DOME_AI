@@ -1,0 +1,12 @@
+pyserial==3.5
+pyzmq==25.1.0
+websockets==11.0.3
+opencv-python==4.8.0.76
+numpy==1.26.0
+RPi.GPIO==0.8.0
+torch>=2.1.0
+torchvision
+ultralytics==8.0.160
+filterpy
+onnxruntime
+Pillow
